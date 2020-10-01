@@ -13,7 +13,7 @@
 
 [![Committed Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fcommitted.software%2Fbadge)](https://committed.io)
 [![Docker Build Status](https://img.shields.io/docker/cloud/build/committed/ui-test?style=flat-square)](https://hub.docker.com/r/committed/ui-test)
-[![Docker Pulls](https://img.shields.io/docker/pulls/committed/ui?style=flat-square)](https://hub.docker.com/r/committed/ui-test)
+[![Docker Pulls](https://img.shields.io/docker/pulls/committed/ui-test?style=flat-square)](https://hub.docker.com/r/committed/ui-test)
 
 This docker image uses [`gauge`](https://gauge.org/) and [`takio`](https://taiko.dev/) to run UI tests in Chrome. This can be used to run the tests locally without installing the dependencies and in CI builds.
 
